@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/nanfuka/baagala.svg?branch=feature)](https://travis-ci.org/nanfuka/baagala)
